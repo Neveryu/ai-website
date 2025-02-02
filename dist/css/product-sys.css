@@ -1,0 +1,481 @@
+/*----banner------*/
+.page-software {
+  position: relative;
+}
+.mod-a {
+  padding: 20px 0;
+}
+#mod.mod-fixed {
+  padding-top: 70px;
+}
+/*弊端*/
+.mod-b {
+  width: 100%;
+  background-image: url('../img/solution_hg/solution_hg_img1.jpg');
+  background-size: cover;
+  background-position: center center;
+  margin-bottom: 50px;
+  position: relative;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.mod-b .flex {
+  margin: 15px;
+  height: 200px;
+  background: rgba(0, 0, 0, 0.25);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 94%;
+  max-width: 560px;
+}
+.mod-b .flex .l {
+  width: 180px;
+  position: relative;
+}
+.mod-b .flex .l .iconfont {
+  color: #ff5c26;
+  font-size: 70px;
+}
+.mod-b .flex .l strong {
+  position: absolute;
+  left: 60%;
+  top: 50%;
+  color: #333;
+  background: #f25928;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  overflow: hidden;
+  line-height: 26px;
+}
+.mod-b .flex .r {
+  text-align: left;
+  line-height: 1.8;
+  color: #ffffff;
+  font-size: 17px;
+  flex: 1;
+  padding-right: 70px;
+}
+/*系统原理*/
+.mod-c {
+  padding-bottom: 20px;
+}
+.mod-c .img {
+  width: 100%;
+  text-align: center;
+}
+.mod-c .img img {
+  max-width: 100%;
+  height: auto;
+}
+/*优势*/
+.mod-d {
+  position: relative;
+  padding-bottom: 80px;
+}
+.mod-d .each {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-bottom: 3px solid #426dd0;
+  background: #fff;
+  text-align: center;
+  height: 330px;
+  padding-top: 45px;
+  width: 90%;
+  margin: 20px auto;
+}
+.mod-d .each:hover {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+}
+.mod-d .each img {
+  margin: 0 auto;
+  display: block;
+  width: 120px;
+  height: 120px;
+}
+.mod-d .each strong {
+  font-size: 19px;
+  display: block;
+  padding: 30px 10px 10px 10px;
+}
+.mod-d .each p {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #666;
+}
+/*应用场景*/
+.mod-e {
+  background: #f3f5f8;
+  padding: 30px 0 60px 0;
+}
+.mod-e .el-col > div {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  width: 85%;
+  margin: 20px auto;
+  background: #fff;
+  padding: 8px;
+}
+.mod-e .img {
+  width: 100%;
+  height: auto;
+}
+.mod-e p {
+  text-align: center;
+  font-size: 17px;
+  padding: 10px 0;
+}
+/*证书专利，双重预防*/
+.mod-f {
+  padding: 30px 0;
+}
+.mod-f ~ .mod-f {
+  padding: 10px 0 80px 0;
+}
+.mod-f .img {
+  width: 100%;
+  text-align: center;
+}
+.mod-f .img img {
+  max-width: 100%;
+  height: auto;
+}
+@media (max-width: 1199px) {
+}
+@media (max-width: 767px) {
+  .mod-b .flex {
+    height: 150px;
+  }
+  .mod-b .flex .l {
+    width: 120px;
+  }
+  .mod-b .flex .r {
+    padding-right: 20px;
+  }
+  .mod-e p {
+    font-size: 14px;
+  }
+}
+
+/*监测预警*/
+.mod-g {
+  background: #f3f5f8;
+  position: relative;
+  padding: 20px 0 60px 0;
+}
+.mod-g .each {
+  background: #fff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  width: 80%;
+  margin: 15px auto;
+  border-bottom: 3px solid #426dd0;
+  padding: 15px;
+  height: 380px;
+}
+.mod-g .each:hover {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+.mod-g .each .img {
+  width: 100%;
+  max-width: 100%;
+}
+.mod-g .each p {
+  padding: 20px;
+  line-height: 1.8;
+}
+@media (max-width: 767px) {
+  .mod-g .each {
+    width: 90%;
+  }
+}
+/*风险分区*/
+.mod-h {
+  background: #f3f5f8;
+  position: relative;
+  margin-top: 50px;
+  padding: 30px 0 80px 0;
+}
+.mod-h .el-row {
+  background: #fff;
+  margin-top: 45px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+.mod-h .el-row:hover {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+}
+.mod-h .text {
+  display: flex;
+  align-items: center;
+  padding: 25px;
+  justify-content: center;
+}
+.mod-h .text p {
+  line-height: 1.8;
+  max-width: 450px;
+  text-align: left;
+}
+.mod-h .img {
+  width: 100%;
+  position: relative;
+}
+.mod-h .img img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (min-width: 1200px) {
+  .mod-h .el-row {
+    display: flex;
+    align-items: center;
+  }
+  .mod-h .text p {
+    line-height: 2;
+  }
+}
+
+/*隐患排查*/
+.mod-i {
+  width: 100%;
+  background-image: url('../img/solution_hg/solution_hg_img1.jpg');
+  background-size: cover;
+  background-position: center center;
+  margin-bottom: 50px;
+  position: relative;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+.mod-i .box {
+  position: relative;
+  padding-right: 400px;
+  padding-top: 30px;
+}
+.mod-i .flex {
+  margin: 15px;
+  height: 180px;
+  background: rgba(0, 0, 0, 0.25);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 94%;
+  max-width: 460px;
+}
+.mod-i .flex .l {
+  width: 120px;
+  position: relative;
+}
+.mod-i .flex .l .iconfont {
+  color: #47d7b6;
+  font-size: 70px;
+}
+.mod-i .flex .l strong {
+  position: absolute;
+  left: 60%;
+  top: 50%;
+  color: #333;
+  background: #f25928;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  overflow: hidden;
+  line-height: 26px;
+}
+.mod-i .flex .r {
+  text-align: left;
+  line-height: 1.8;
+  color: #ffffff;
+  font-size: 17px;
+  flex: 1;
+  padding-right: 40px;
+}
+.mod-i .phone {
+  background-image: url('../img/software/software_pro_img5.png');
+  height: 570px;
+  width: 275px;
+  background-position: center top;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  right: 40px;
+  bottom: -100px;
+}
+.mod-i .phone .gif {
+  width: 249px;
+  padding-top: 67px;
+  margin: 0 auto;
+}
+.mod-i .phone .gif img {
+  max-width: 100%;
+}
+@media (max-width: 1199px) {
+  .mod-i .box {
+    padding-right: 0;
+  }
+  .mod-i .phone {
+    display: none;
+  }
+  .mod-i .flex {
+    height: 150px;
+  }
+}
+/*其他模块tab*/
+.mod-j {
+  position: relative;
+  background: #f1f3f8;
+  padding: 30px 0 80px 0;
+}
+.mod-j .tab-wrap {
+  padding-top: 30px;
+}
+.mod-j .tab-head {
+  width: 100%;
+  overflow: auto;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+.mod-j .tab-head li {
+  width: 15%;
+  list-style: none;
+  text-align: center;
+  border: 2px solid #2c5ccb;
+  border-radius: 10px;
+  padding: 30px 0;
+  position: relative;
+  cursor: pointer;
+}
+.mod-j .tab-head li + li {
+  margin-left: 4%;
+}
+.mod-j .tab-head strong {
+  font-size: 18px;
+  color: #2c5ccb;
+  display: block;
+  padding-top: 5px;
+}
+.mod-j .tab-head .iconfont {
+  font-size: 66px;
+  color: #2c5ccb;
+  line-height: 1;
+}
+.mod-j .tab-head li.active {
+  background: #2c5ccb;
+}
+.mod-j .tab-head li.active .iconfont {
+  color: #fff;
+}
+.mod-j .tab-head li.active strong {
+  color: #fff;
+}
+.mod-j .tab-head li.active:after {
+  width: 0;
+  height: 0;
+  border: 10px solid transparent;
+  border-top: 10px solid #2c5ccb;
+  position: absolute;
+  bottom: -21px;
+  left: 45%;
+  content: ' ';
+}
+
+@media (max-width: 991px) {
+  .mod-j .tab-head li {
+    padding: 15px 0;
+    width: 19%;
+  }
+  .mod-j .tab-head li + li {
+    margin-left: 1%;
+  }
+  .mod-j .tab-head strong {
+    font-size: 14px;
+  }
+  .mod-j .tab-head .iconfont {
+    font-size: 40px;
+  }
+}
+.mod-j .tab-con .el-row {
+}
+.mod-j .tab-con .text {
+  line-height: 2;
+  text-align: left;
+  padding: 20px;
+  font-size: 17px;
+}
+.mod-j .tab-con .text p {
+  margin-bottom: 15px;
+}
+.mod-j .tab-con img {
+  width: 100%;
+  max-width: 300px;
+}
+
+@media (min-width: 1200px) {
+  .mod-j .tab-con .el-row {
+    display: flex;
+    align-items: center;
+  }
+  .mod-j .tab-con img {
+    max-width: 400px;
+  }
+  .mod-j .tab-con .text {
+    padding-left: 50px;
+  }
+}
+
+/*应用场景可穿戴*/
+.mod-m {
+  background: #f1f3f8;
+  padding: 30px 0 80px 0;
+}
+.mod-m .img {
+  text-align: center;
+}
+.mod-m .img img {
+  max-width: 100%;
+  width: 100%;
+}
+.mod-m .text {
+  background: #fff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  width: 90%;
+  margin: 0 auto;
+  border-bottom: 3px solid #ff9326;
+  height: 300px;
+  position: relative;
+  margin-top: 30px;
+  text-align: left;
+}
+.mod-m .text .num {
+  color: #ff9326;
+  font-size: 70px;
+  position: absolute;
+  left: 30px;
+  top: 40px;
+}
+.mod-m .text strong {
+  font-size: 20px;
+  display: block;
+  padding: 50px 60px 0 110px;
+}
+.mod-m .text p {
+  padding: 15px 60px 0 110px;
+  color: #666;
+  line-height: 1.8;
+}
+@media (max-width: 767px) {
+  .mod-m .text {
+    height: 350px;
+  }
+  .mod-m .text .num {
+    font-size: 50px;
+    left: 20px;
+  }
+  .mod-m .text strong {
+    padding: 50px 30px 0 70px;
+    font-size: 18px;
+  }
+  .mod-m .text p {
+    padding: 15px 30px 0 70px;
+  }
+}

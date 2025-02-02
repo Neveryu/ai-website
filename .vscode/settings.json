@@ -1,0 +1,13 @@
+{
+  // Editor
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.guides.bracketPairs": "active",
+  "editor.tabSize": 2,
+  "terminal.integrated.fontSize": 16,
+  "editor.hover.sticky": true,
+  "editor.formatOnPaste": false,
+  "editor.autoClosingBrackets": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // 指定 Prettier 配置文件的路径
+  "prettier.configPath": ".prettierrc"
+}

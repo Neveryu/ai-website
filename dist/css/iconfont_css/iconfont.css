@@ -1,0 +1,165 @@
+@font-face {
+  font-family: 'iconfont'; /* Project id 2914822 */
+  src: url('iconfont.woff2?t=1636014271324') format('woff2'), url('iconfont.woff?t=1636014271324') format('woff'),
+    url('iconfont.ttf?t=1636014271324') format('truetype');
+}
+
+.iconfont {
+  font-family: 'iconfont' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon_RectangleCopy33:before {
+  content: '\e6ac';
+}
+
+.icon_RectangleCopy28:before {
+  content: '\e6a9';
+}
+
+.icon_RectangleCopy30:before {
+  content: '\e6aa';
+}
+
+.icon_RectangleCopy32:before {
+  content: '\e6e6';
+}
+
+.icon_RectangleCopy25:before {
+  content: '\e6db';
+}
+
+.icon_RectangleCopy27:before {
+  content: '\e6e5';
+}
+
+.icon_RectangleCopy29:before {
+  content: '\e6e7';
+}
+
+.icon_RectangleCopy24:before {
+  content: '\e6b1';
+}
+
+.icon_RectangleCopy26:before {
+  content: '\e6d6';
+}
+
+.icon_back:before {
+  content: '\e618';
+}
+
+.icon_next:before {
+  content: '\e61d';
+}
+
+.icon_telephone:before {
+  content: '\e6a3';
+}
+
+.icon_address:before {
+  content: '\e6a8';
+}
+
+.icon_suggestion:before {
+  content: '\e6e3';
+}
+
+.icon_RectangleCopy:before {
+  content: '\e6a4';
+}
+
+.icon_RectangleCopy1:before {
+  content: '\e6a2';
+}
+
+.icon_RectangleCopy2:before {
+  content: '\e6a6';
+}
+
+.icon_RectangleCopy3:before {
+  content: '\e6a7';
+}
+
+.icon_RectangleCopy4:before {
+  content: '\e6ad';
+}
+
+.icon_RectangleCopy5:before {
+  content: '\e6ba';
+}
+
+.icon_RectangleCopy6:before {
+  content: '\e6bf';
+}
+
+.icon_RectangleCopy7:before {
+  content: '\e6c3';
+}
+
+.icon_RectangleCopy8:before {
+  content: '\e6c4';
+}
+
+.icon_RectangleCopy9:before {
+  content: '\e6cd';
+}
+
+.icon_RectangleCopy10:before {
+  content: '\e6ce';
+}
+
+.icon_RectangleCopy11:before {
+  content: '\e6d2';
+}
+
+.icon_RectangleCopy12:before {
+  content: '\e6d3';
+}
+
+.icon_RectangleCopy13:before {
+  content: '\e6d5';
+}
+
+.icon_RectangleCopy14:before {
+  content: '\e6d7';
+}
+
+.icon_RectangleCopy15:before {
+  content: '\e6d8';
+}
+
+.icon_RectangleCopy16:before {
+  content: '\e6d9';
+}
+
+.icon_RectangleCopy17:before {
+  content: '\e6da';
+}
+
+.icon_RectangleCopy18:before {
+  content: '\e6de';
+}
+
+.icon_RectangleCopy19:before {
+  content: '\e6df';
+}
+
+.icon_RectangleCopy20:before {
+  content: '\e6e0';
+}
+
+.icon_RectangleCopy21:before {
+  content: '\e6e1';
+}
+
+.icon_RectangleCopy22:before {
+  content: '\e6e2';
+}
+
+.icon_RectangleCopy23:before {
+  content: '\e6e4';
+}
