@@ -22,7 +22,7 @@ npm run build
 
 ## 截图/示例
 
-[](./screenshot/neveryu.github.io_ai-website.png)
+![](./screenshot/neveryu.github.io_ai-website.png)
 
 ## 部署/脚本
 
