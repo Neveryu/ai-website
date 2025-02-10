@@ -1,0 +1,27 @@
+{
+  "name": "ai-website",
+  "version": "1.0.0",
+  "description": "一款基于 HTML 的科技风格的企业级官网（门户）",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "vite --open --force",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "ai",
+    "official-website",
+    "website"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "6.0.7"
+  },
+  "devDependencies": {
+    "html-minifier-terser": "7.2.0"
+  }
+}
